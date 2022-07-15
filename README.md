@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Liao-ZhengYU
-- 👀 I’m interested in cv.
-- 🌱 I’m currently learning opencv-python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhengyu.liao@outlook.com
 
 <!---
