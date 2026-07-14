@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liao-ZhengYU
+- 👋 Hi, I’m LiaoZhengyu
 - 📫 How to reach me zhengyu.liao@outlook.com
 
 <!---
